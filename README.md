@@ -4,6 +4,7 @@ A single-file, browser-based tool that normalizes judge scores for the MIT $100K
 
 No install, no server, no login. Everything runs locally in the browser, and no data ever leaves your machine.
 
+https://www.mit100k.org/
 ---
 
 ## Why this exists
