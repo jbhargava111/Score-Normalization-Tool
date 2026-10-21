@@ -1,10 +1,9 @@
-# MIT $100K Score Normalizer
+# [MIT $100K](https://www.mit100k.org/) Score Normalizer
 
 A single-file, browser-based tool that normalizes judge scores for the MIT $100K Entrepreneurship Competition. Paste in the raw evaluation export from your judging platform and get a ranked list of applications that corrects for judges who score harsher or more generously than their peers.
 
 No install, no server, no login. Everything runs locally in the browser, and no data ever leaves your machine.
 
-https://www.mit100k.org/
 ---
 
 ## Why this exists
